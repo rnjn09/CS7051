@@ -1,7 +1,7 @@
 # Network Applications II
 ## Lab I
 ### Multithreaded Server
-# Installation
+# Getting Started
  
   1. Make sure you have a proper Java version installed and appropriate path set.
 
@@ -9,4 +9,4 @@
 
   3. Run 'sh start.sh'. The script will launch a server.
 
-  4. Pass the Port number as an argument to the serveR.
+  4. Pass the Port number as an argument to the server.
